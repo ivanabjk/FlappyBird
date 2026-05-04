@@ -7,13 +7,13 @@ A simple Flappy Bird clone written in Java Swing.
 ## Screenshots
 
 **Start Screen**
-![Start](Assets/screenshots/Start.png)
+![Start](src/screenshots/Start.png)
 
 **Playing**
-![Playing](Assets/screenshots/Playing.png)
+![Playing](src/screenshots/Playing.png)
 
 **Game Over**
-![Game Over](Assets/screenshots/GameOver.png)
+![Game Over](src/screenshots/GameOver.png)
 
 ---
 
