@@ -8,17 +8,12 @@ A simple Flappy Bird clone written in Java Swing.
 - Avoid the pipes and don’t fall.
 - Click the play button or press space to start/restart.
 
-**Start Screen**
+<p align="center">
+  <img src="src/screenshots/Start.png" alt="Start Screen" width="200"/>
+  <img src="src/screenshots/Playing.png" alt="Playing" width="200"/>
+  <img src="src/screenshots/GameOver.png" alt="Game Over" width="200"/>
+</p>
 
-![Start](src/screenshots/Start.png)
-
-**Playing**
-
-![Playing](src/screenshots/Playing.png)
-
-**Game Over**
-
-![Game Over](src/screenshots/GameOver.png)
 
 ---
 
